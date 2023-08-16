@@ -1,16 +1,12 @@
 {
-  "name": "scratchblocks",
+  "name": "@turbowarp/scratchblocks",
   "version": "3.6.3",
   "description": "Render scratchblocks code to SVG images.",
   "license": "MIT",
   "author": "Tim Radvan",
-  "homepage": "https://scratchblocks.github.io/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/scratchblocks/scratchblocks.git"
-  },
-  "bugs": {
-    "url": "https://github.com/scratchblocks/scratchblocks/issues"
+    "url": "git+https://github.com/TurboWarp/scratchblocks.git"
   },
   "type": "module",
   "main": "build/scratchblocks.min.js",
