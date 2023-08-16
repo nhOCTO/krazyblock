@@ -1,3 +1,8 @@
+This is a slightly customized version of scratchblocks that we use for TurboWarp's extension documentation.
+
+These patches are not a suggestion for upstream.
+
+<!--
 Make pictures of Scratch blocks from text.
 
 [![Screenshot](https://scratchblocks.github.io/screenshot.png)](https://scratchblocks.github.io/#when%20flag%20clicked%0Aclear%0Aforever%0Apen%20down%0Aif%20%3C%3Cmouse%20down%3F%3E%20and%20%3Ctouching%20%5Bmouse-pointer%20v%5D%3F%3E%3E%20then%0Aswitch%20costume%20to%20%5Bbutton%20v%5D%0Aelse%0Aadd%20(x%20position)%20to%20%5Blist%20v%5D%0Aend%0Amove%20(foo)%20steps%0Aturn%20ccw%20(9)%20degrees)
@@ -181,3 +186,4 @@ Many, many thanks to the [contributors](https://github.com/scratchblocks/scratch
 * Help with translation code from [joooni](https://scratch.mit.edu/users/joooni/)
 * Block translations from the [scratch-l10n repository](https://github.com/scratchfoundation/scratch-l10n/)
 * Ported to node by [arve0](https://github.com/arve0)
+-->
