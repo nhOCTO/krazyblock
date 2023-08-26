@@ -1,6 +1,6 @@
 {
   "name": "@turbowarp/scratchblocks",
-  "version": "3.6.3",
+  "version": "3.6.4",
   "description": "Render scratchblocks code to SVG images.",
   "license": "MIT",
   "author": "Tim Radvan",
