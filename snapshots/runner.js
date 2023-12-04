@@ -3,9 +3,9 @@ import path from "path"
 const tests = []
 
 export function test(style, name, source, lang) {
-  if (style === 'scratch2') {
+  if (style === "scratch2") {
     // We don't support scratch2
-    return;
+    return
   }
 
   tests.push({
